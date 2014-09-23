@@ -1,14 +1,14 @@
 /**************************************************************************************************/
 /* Copyright (C) mc2lab.com, SSE@USTC, 2014-2015                                                  */
 /*                                                                                                */
-/*  FILE NAME             :  linklist.c                                                           */
+/*  FILE NAME             :  linklist.h                                                           */
 /*  PRINCIPAL AUTHOR      :  Lixing (Come from Mengning's teaching videoes)                       */
 /*  SUBSYSTEM NAME        :  linklist                                                             */
 /*  MODULE NAME           :  linklist function                                                    */
 /*  LANGUAGE              :  C                                                                    */
 /*  TARGET ENVIRONMENT    :  ANY                                                                  */
 /*  DATE OF FIRST RELEASE :  2014/09/22                                                           */
-/*  DESCRIPTION           :  This is a linklist source program                                    */
+/*  DESCRIPTION           :  This is a linklist head program                                      */
 /**************************************************************************************************/
 
 /*
